@@ -1,1 +1,0 @@
-Establecer procesos operativos, KPIs y controles periódicos
