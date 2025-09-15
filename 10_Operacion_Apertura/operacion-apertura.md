@@ -11,7 +11,7 @@
 - **Relleno:** Queso crema, azúcar, huevos, nata, esencia vainilla
 - **Acabado:** Natural sin cobertura
 - **Tiempo elaboración:** 4h (incluyendo horneado y enfriado)
-- **Tamaños:** Grande (20cm), Mediana (15cm), Degustación (individual)
+- **Tamaños:** Grande (20cm), Degustación individual (5cm), Porciones
 
 **2. Tarta de Queso con Frutos Rojos**
 - **Base:** Igual que New York

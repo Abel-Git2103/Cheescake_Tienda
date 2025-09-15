@@ -41,10 +41,24 @@
 - **Contacto:** 973 XXX XXX
 
 #### Frutos Secos: Cal Tomasi (Reus)
-- **Productos:** Almendras, avellanas, nueces
+- **Productos:** Almendras, avellanas, nueces, **pistachos sicilianos**
 - **Ventajas:** Producto local, tostado artesanal
-- **Uso:** Decoración y sabores especiales de tartas
+- **Uso:** Decoración, sabor Pistacho y otros especiales
 - **Condiciones:** Pedido mínimo 5kg por producto
+
+### Ingredientes Especializados para Sabores Únicos
+
+#### Galletas y Complementos: Distribuidora Dulcet (Barcelona)
+- **Productos:** Galletas Lotus, Oreo, Dinosaurus, Happy Hippo
+- **Ventajas:** Distribuidor oficial de marcas principales
+- **Condiciones:** Pedido mínimo 10 cajas por referencia
+- **Contacto:** 933 XXX XXX
+
+#### Chocolate: Barry Callebaut (Distribución Catalunya)
+- **Productos:** Chocolate blanco premium, cacao en polvo
+- **Uso:** Sabor Choco Blanco y Dinosaurus, decoraciones
+- **Ventajas:** Calidad profesional, estabilidad en productos
+- **Condiciones:** Entrega quincenal, pago a 30 días
 
 ### Edulcorantes y Aromas
 
@@ -107,10 +121,17 @@
 | Producto | Consumo Semanal | Stock Mínimo | Punto Pedido |
 |----------|----------------|--------------|--------------|
 | Harina | 10kg | 30kg | 20kg |
+| Harina sin gluten | 3kg | 9kg | 6kg |
 | Azúcar | 8kg | 25kg | 15kg |
 | Queso crema | 15kg | 45kg | 30kg |
 | Mantequilla | 5kg | 15kg | 10kg |
 | Huevos | 20 docenas | 60 docenas | 40 docenas |
+| Pistachos | 1kg | 3kg | 2kg |
+| Galletas Lotus | 2kg | 6kg | 4kg |
+| Galletas Oreo | 2kg | 6kg | 4kg |
+| Happy Hippo | 1kg | 3kg | 2kg |
+| Dinosaurus | 1kg | 3kg | 2kg |
+| Chocolate blanco | 2kg | 6kg | 4kg |
 
 #### Ingredientes Perecederos (Stock 3-5 días)
 | Producto | Consumo Semanal | Stock Mínimo | Frecuencia Entrega |
@@ -192,8 +213,38 @@
 | Packaging | | | 0,40€ |
 | **COSTE TOTAL** | | | **7,50€** |
 
-**Precio venta:** 20€
-**Margen bruto:** 62,5%
+**Precio venta:** 22€ | **Margen bruto:** 65,9%
+
+#### Tarta Pistacho (20cm - 8 raciones) - PREMIUM
+| Ingrediente | Cantidad | Precio/kg | Coste |
+|-------------|----------|-----------|-------|
+| Queso crema | 500g | 8,50€ | 4,25€ |
+| Pistachos | 100g | 25,00€ | 2,50€ |
+| Azúcar | 150g | 1,20€ | 0,18€ |
+| Huevos | 3 unidades | 0,18€/u | 0,54€ |
+| Nata | 200ml | 3,50€/L | 0,70€ |
+| Galletas | 150g | 6,00€ | 0,90€ |
+| Mantequilla | 75g | 7,00€ | 0,53€ |
+| **TOTAL INGREDIENTES** | | | **9,60€** |
+| Packaging | | | 0,40€ |
+| **COSTE TOTAL** | | | **10,00€** |
+
+**Precio venta:** 28€ | **Margen bruto:** 64,3%
+
+#### Tarta Lotus (20cm - 8 raciones)
+| Ingrediente | Cantidad | Precio/kg | Coste |
+|-------------|----------|-----------|-------|
+| Queso crema | 500g | 8,50€ | 4,25€ |
+| Galletas Lotus | 200g | 12,00€ | 2,40€ |
+| Azúcar | 120g | 1,20€ | 0,14€ |
+| Huevos | 3 unidades | 0,18€/u | 0,54€ |
+| Nata | 200ml | 3,50€/L | 0,70€ |
+| Mantequilla | 75g | 7,00€ | 0,53€ |
+| **TOTAL INGREDIENTES** | | | **8,56€** |
+| Packaging | | | 0,40€ |
+| **COSTE TOTAL** | | | **8,96€** |
+
+**Precio venta:** 25€ | **Margen bruto:** 64,2%
 
 ### Estrategias de Optimización
 
@@ -256,16 +307,17 @@
 ## Presupuesto Inicial de Stock
 
 ### Stock de Apertura (1 semana de funcionamiento)
-- **Ingredientes principales:** 800€
+- **Ingredientes principales (básicos):** 500€
+- **Ingredientes especializados (sabores únicos):** 400€
 - **Bebidas:** 300€
 - **Material auxiliar (packaging, limpieza):** 100€
 
-**TOTAL STOCK INICIAL:** 1.200€
+**TOTAL STOCK INICIAL:** 1.300€
 
 ### Capital Circulante Recomendado
-- **Stock medio:** 1.500€
-- **Cuentas por pagar (30 días):** 2.000€
-- **Fondo de maniobra:** 3.500€
+- **Stock medio:** 1.600€
+- **Cuentas por pagar (30 días):** 2.200€
+- **Fondo de maniobra:** 3.800€
 
 ---
 

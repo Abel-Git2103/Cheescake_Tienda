@@ -6,27 +6,31 @@ Este directorio contiene las fichas técnicas detalladas de todos nuestros produ
 
 ---
 
+# 📄 Fichas Técnicas de Productos
+
+## 🎯 **SISTEMA DE FICHAS TÉCNICAS**
+
+Este directorio contiene las fichas técnicas detalladas de todos nuestros productos, incluyendo ingredientes, procesos, costes y especificaciones de calidad.
+
+---
+
 ## 📝 **CATÁLOGO DE PRODUCTOS**
 
-### **LÍNEA CLÁSICA**
-- [Cheesecake New York](ficha-newyork.md) - Producto estrella
-- [Cheesecake Philadelphia](ficha-philadelphia.md) - Versión cremosa
-- [Cheesecake Horneado Tradicional](ficha-tradicional.md) - Receta clásica
+### **LÍNEA COMPLETA - 8 SABORES ÚNICOS**
+- [Cheesecake Clásica](ficha-clasica.md) - Base tradicional
+- [Cheesecake Pistacho](ficha-pistacho.md) - Premium con frutos secos selectos
+- [Cheesecake Lotus](ficha-lotus.md) - Innovación con galletas caramelizadas
+- [Cheesecake Happy Hippo](ficha-happy-hippo.md) - Atractivo para público joven
+- [Cheesecake Oreo](ficha-oreo.md) - Popular entre niños y jóvenes
+- [Cheesecake New York](ficha-newyork.md) - Especialidad del mes (cambiante)
+- [Cheesecake Clásica Sin Gluten](ficha-sin-gluten.md) - Opción inclusiva
+- [Cheesecake Choco Blanco y Dinosaurus](ficha-choco-blanco.md) - Sabor único diferenciador
 
-### **LÍNEA GOURMET**
-- [Cheesecake de Frutos Rojos](ficha-frutos-rojos.md) - Temporada verano
-- [Cheesecake de Chocolate Belga](ficha-chocolate.md) - Premium
-- [Cheesecake de Limón](ficha-limon.md) - Cítrico refrescante
-
-### **LÍNEA ESPECIAL**
-- [Cheesecake Sin Azúcar](ficha-sin-azucar.md) - Diabéticos
-- [Cheesecake Vegano](ficha-vegano.md) - Sin lácteos
-- [Mini Cheesecakes](ficha-mini.md) - Porciones individuales
-
-### **LÍNEA ESTACIONAL**
-- [Cheesecake de Navidad](ficha-navidad.md) - Especias navideñas
-- [Cheesecake de Pascua](ficha-pascua.md) - Decoración especial
-- [Cheesecake de San Valentín](ficha-sanvalentin.md) - Romántico
+### **FORMATOS DISPONIBLES**
+Cada sabor se ofrece en tres formatos:
+- **Grande (20cm)**: 8-10 raciones | 22-28€ según sabor
+- **Porción Individual**: Corte perfecto | 4,00-5,50€ según sabor  
+- **Degustación (5cm)**: 1-2 raciones | 8-12€ según sabor
 
 ---
 

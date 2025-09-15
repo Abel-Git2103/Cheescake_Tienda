@@ -51,11 +51,14 @@
 
 #### Estructura y Contenidos
 1. **Home:** Presentación, productos destacados, ubicación
-2. **Productos:** Catálogo completo con precios y ingredientes
-3. **Nosotros:** Historia, valores, compromiso con la calidad
-4. **Galería:** Fotos profesionales de productos y local
-5. **Contacto:** Ubicación, horarios, teléfono, formulario
-6. **Blog:** Recetas, consejos, novedades
+2. **Productos:** Catálogo completo de 8 sabores únicos con precios y ingredientes
+   - Clásica, Pistacho, Lotus, Happy Hippo, Oreo, New York, Sin Gluten, Choco Blanco y Dinosaurus
+   - 3 formatos: Grande (20cm), Porción, Degustación (5cm)
+3. **Especialidad del Mes:** Destacado especial para sabor New York cambiante
+4. **Nosotros:** Historia, valores, compromiso con la calidad artesanal
+5. **Galería:** Fotos profesionales de los 8 sabores y local
+6. **Contacto:** Ubicación, horarios, teléfono, formulario
+7. **Blog:** Recetas, consejos, historia de cada sabor único
 
 #### Funcionalidades
 - **Responsive design:** Adaptado a móviles y tablets
@@ -75,10 +78,11 @@
 **Objetivo:** Principal canal de marketing visual
 
 **Contenido estratégico:**
-- **40% Productos:** Fotos profesionales de tartas y presentaciones
-- **30% Behind the scenes:** Proceso de elaboración, ingredientes
-- **20% Lifestyle:** Momentos de consumo, clientes disfrutando
-- **10% Educativo:** Tips, ingredientes, historia de la tarta de queso
+- **40% Productos:** Fotos profesionales de los 8 sabores únicos en sus 3 formatos
+- **25% Behind the scenes:** Proceso de elaboración de sabores especiales (Pistacho, Lotus, etc.)
+- **20% Especialidad del mes:** Contenido especial sobre variaciones del New York
+- **10% Lifestyle:** Momentos de consumo, clientes disfrutando
+- **5% Educativo:** Historia de cada sabor, ingredientes especiales
 
 **Frecuencia:** 1 post diario + 3-5 stories
 **Presupuesto:** 300€/mes (fotografía + gestión)
@@ -88,8 +92,9 @@
 
 **Contenido:**
 - Horarios y información práctica
-- Eventos especiales y promociones
-- Reseñas y testimonios de clientes
+- Eventos especiales y promociones de los 8 sabores
+- Reseñas y testimonios de clientes sobre sabores favoritos
+- Especialidad del mes: actualizaciones del sabor New York
 - Contenido compartido desde Instagram
 
 **Frecuencia:** 3-4 posts semanales
@@ -99,10 +104,11 @@
 **Objetivo:** Llegar a audiencia joven con contenido viral
 
 **Contenido:**
-- Videos del proceso de elaboración
-- Challenges de sabores
+- Videos del proceso de elaboración de sabores únicos
+- Challenges "Adivina el sabor" con los 8 sabores
 - Momentos divertidos del día a día
-- Colaboraciones con influencers locales
+- Colaboraciones con influencers locales probando diferentes sabores
+- "Sabor del día" - destacando uno de los 8 sabores
 
 **Frecuencia:** 2-3 videos semanales
 **Presupuesto:** 200€/mes (creación contenido)
@@ -118,9 +124,12 @@
 #### SEO Local
 **Palabras clave objetivo:**
 - "Tarta de queso Tarragona"
-- "Cheesecake artesanal Tarragona" 
-- "Pastelería premium Tarragona"
-- "Cafetería centro Tarragona"
+- "Cheesecake Pistacho Tarragona"
+- "Cheesecake Lotus Tarragona"
+- "Tartas Oreo Happy Hippo Tarragona"
+- "Cheesecake sin gluten Tarragona"
+- "Speciality cheesecake Tarragona"
+- "8 sabores únicos tarta queso"
 
 **Estrategia de contenido:**
 - Blog con recetas y consejos
@@ -193,10 +202,11 @@
 - Sorteo de tartas gratuitas durante un mes
 
 **Días 2-7 - Semana de lanzamiento:**
-- 50% descuento en segunda consumición
-- Promoción especial redes sociales: foto + tag = descuento
-- Degustaciones cada 2 horas
-- Concurso "Adivina los ingredientes"
+- 50% descuento en segunda consumición de cualquier sabor
+- Promoción redes sociales: foto + tag + mención del sabor favorito = descuento
+- Degustaciones de los 8 sabores cada 2 horas
+- Concurso "Adivina el sabor" con premios de tartas gratuitas
+- "Reto de los 8 sabores": descuento especial por probar todos los sabores en una semana
 
 #### Presupuesto Inauguración
 - **Productos para degustación:** 400€
@@ -209,19 +219,19 @@
 
 #### Fidelización y Consolidación
 **Mes 1:**
-- Programa de fidelidad "Cheescake Lovers"
-- Feedback activo y mejora continua
-- Eventos temáticos semanales (martes sin gluten, viernes vegano)
+- Programa de fidelidad "Cheescake Lovers" con tarjeta de 8 sellos (uno por sabor)
+- Feedback activo sobre preferencia de sabores
+- Eventos temáticos: "Lunes Clásico", "Miércoles sin Gluten", "Viernes Premium" (Pistacho/Choco Blanco)
 
 **Mes 2:**
-- Lanzamiento de nuevos sabores estacionales
-- Colaboraciones con cafeterías locales
-- Participación en eventos gastronómicos de Tarragona
+- Lanzamiento de variaciones del New York (especialidad del mes)
+- Colaboraciones con cafeterías locales destacando nuestros sabores únicos
+- Participación en eventos gastronómicos presentando los 8 sabores
 
 **Mes 3:**
-- Análisis completo de resultados
-- Optimización de estrategias según datos
-- Preparación de campañas navideñas
+- Análisis de sabores más vendidos y optimización de producción
+- Desarrollo de combos especiales mezclando sabores populares
+- Preparación de nuevas variaciones para próximas especialidades del mes
 
 ---
 
