@@ -39,82 +39,189 @@
 
 ## 👩‍🍳 **PROCEDIMIENTO BASE**
 
-### **PASO 1: Preparación Moldes y Base (25 min)**
-1. **Precalentar** horno a 180°C
-2. **Forrar** los 9 moldes con papel de horno
-3. **Triturar** galletas hasta polvo fino en procesador
-4. **Derretir** mantequilla en microondas (30 seg)
-5. **Mezclar** galletas + mantequilla + azúcar + sal hasta arena húmeda
-6. **Distribuir** equitativamente en los 9 moldes (25g por molde aprox)
-7. **Presionar** uniformemente en fondo de cada molde
-8. **Hornear** 10 minutos hasta dorar ligeramente
-9. **Enfriar** mientras prepara relleno base
+## 👩‍🍳 **PROCEDIMIENTO DETALLADO POR CADA TARTA**
 
-### **PASO 2: Elaboración Relleno Base (15 min)**
+### **PASO 1: Preparación de Bases Específicas (30 min)**
+
+#### **🧀 TARTA 1: CLÁSICA**
+1. **Triturar** 25g galletas digestive hasta polvo fino
+2. **Derretir** 10g mantequilla + pizca de sal
+3. **Mezclar** hasta arena húmeda uniforme
+4. **Presionar** en molde 9x3cm, base uniforme
+5. **Hornear** 10 min a 180°C hasta dorar ligeramente
+
+#### **🌰 TARTA 2: PISTACHO**
+1. **Triturar** 23g galletas digestive + 4g pistachos molidos
+2. **Derretir** 10g mantequilla
+3. **Mezclar** hasta obtener color verdoso suave
+4. **Presionar** en molde, compactar bien
+5. **Hornear** 10 min a 180°C
+
+#### **🍪 TARTA 3: LOTUS**
+1. **Triturar** 19g galletas Lotus + 6g galletas María
+2. **Derretir** 10g mantequilla + 1/8 cda pasta Lotus
+3. **Mezclar** hasta color caramelo uniforme
+4. **Presionar** en molde con firmeza
+5. **Hornear** 8-10 min a 180°C (vigila no se queme)
+
+#### **🦛 TARTA 4: HAPPY HIPPO**
+1. **Triturar** 19g galletas barquillo + 6g galletas María
+2. **Mezclar** con 3g cacao en polvo
+3. **Derretir** 10g mantequilla + 1/8 cda azúcar moreno
+4. **Combinar** hasta color chocolate uniforme
+5. **Hornear** 8-10 min a 180°C
+
+#### **⚫ TARTA 5: OREO**
+1. **Triturar** 25g galletas Oreo (con relleno)
+2. **Derretir** 8g mantequilla (menos cantidad por humedad Oreo)
+3. **Mezclar** hasta pasta negra compacta
+4. **Presionar** firmemente en molde
+5. **Hornear** 8 min a 180°C
+
+#### **🗽 TARTA 6: NEW YORK**
+1. **Triturar** 25g graham crackers (o digestive doradas)
+2. **Mezclar** con 1/4 cda azúcar moreno + pizca canela
+3. **Derretir** 10g mantequilla
+4. **Combinar** hasta textura americana clásica
+5. **Hornear** 10 min a 180°C hasta dorado
+
+#### **🌾 TARTA 7: SIN GLUTEN**
+1. **Triturar** 25g galletas sin gluten certificadas
+2. **Derretir** 10g mantequilla + pizca sal marina
+3. **Mezclar** en utensilio dedicado sin gluten
+4. **Presionar** evitando contaminación cruzada
+5. **Hornear** 10 min a 180°C en bandeja separada
+
+#### **🦕 TARTA 8: CHOCO BLANCO**
+1. **Triturar** 19g galletas Dinosaurus + 6g galletas María
+2. **Mezclar** con 3g cacao en polvo
+3. **Derretir** 10g mantequilla + 1/8 cda azúcar moreno
+4. **Combinar** hasta color marrón uniforme
+5. **Hornear** 8-10 min a 180°C
+
+#### **🎨 TARTA 9: SORPRESA DEL DÍA** (Rotativa)
+1. **Adaptar** según sabor del día elegido
+2. **Seguir** procedimiento del sabor correspondiente
+3. **Personalizar** con ingrediente especial del día
+
+### **PASO 2: Elaboración de Rellenos Específicos (25 min)**
+
+#### **🧀 RELLENO CLÁSICO (75g)**
+1. **Batir** 75g queso crema hasta cremoso (2 min)
+2. **Añadir** 19g azúcar gradualmente
+3. **Incorporar** proporción de 1 huevo batido
+4. **Agregar** 25ml nata + 1/8 cdta vainilla
+5. **Tamizar** 1/4 cda harina, integrar suavemente
+6. **Añadir** ralladura 1/8 limón
+
+#### **🌰 RELLENO PISTACHO (75g)**
+1. **Batir** 75g queso crema hasta cremoso
+2. **Incorporar** 19g pasta de pistacho, mezclar bien
+3. **Añadir** 18g azúcar gradualmente
+4. **Incorporar** proporción de 1 huevo batido
+5. **Agregar** 25ml nata + 1/8 cdta vainilla
+6. **Tamizar** 1/4 cda harina
+7. **Añadir** 13g pistachos molidos + 1 gota colorante verde
+
+#### **🍪 RELLENO LOTUS (75g)**
+1. **Batir** 75g queso crema hasta cremoso
+2. **Incorporar** 1/3 cda pasta Lotus hasta integrar
+3. **Añadir** 16g azúcar gradualmente
+4. **Incorporar** proporción de 1 huevo batido
+5. **Agregar** 25ml nata + 1/8 cdta vainilla
+6. **Tamizar** 1/4 cda harina
+7. **Mezclar** 19g galletas Lotus trituradas groseramente
+
+#### **🦛 RELLENO HAPPY HIPPO (75g)**
+1. **Batir** 75g queso crema hasta cremoso
+2. **Derretir** 6g chocolate con leche, enfriar levemente
+3. **Incorporar** chocolate + 15g azúcar
+4. **Añadir** proporción de 1 huevo batido
+5. **Agregar** 25ml nata + 1/8 cdta vainilla
+6. **Tamizar** 1/4 cda harina
+7. **Triturar** 1 Happy Hippo, incorporar trozos
+8. **Mezclar** 13g avellanas molidas finamente
+
+#### **⚫ RELLENO OREO (75g)**
+1. **Batir** 75g queso crema hasta cremoso
+2. **Añadir** 15g azúcar + 1/4 cda cacao en polvo
+3. **Incorporar** proporción de 1 huevo batido
+4. **Agregar** 25ml nata + 1/8 cdta vainilla
+5. **Tamizar** 1/4 cda harina
+6. **Mezclar** 19g galletas Oreo trituradas groseramente
+
+#### **🗽 RELLENO NEW YORK (100g - más denso)**
+1. **Batir** 100g queso crema hasta extra cremoso
+2. **Añadir** 25g azúcar gradualmente
+3. **Incorporar** proporción de 1 huevo batido muy lentamente
+4. **Agregar** 31ml nata agria (sour cream)
+5. **Añadir** 1/8 cda vainilla premium
+6. **Tamizar** 1/3 cda harina
+7. **Incorporar** ralladura 1/8 limón
+
+#### **🌾 RELLENO SIN GLUTEN (75g)**
+1. **Batir** 75g queso crema en utensilio limpio sin gluten
+2. **Añadir** 19g azúcar gradualmente
+3. **Incorporar** proporción de 1 huevo batido
+4. **Agregar** 25ml nata + 1/8 cdta vainilla
+5. **Tamizar** 1/4 cda harina sin gluten + 1/8 cda maicena
+6. **Incorporar** ralladura 1/8 limón
+
+#### **🦕 RELLENO CHOCO BLANCO (75g)**
+1. **Derretir** 19g chocolate blanco al baño maría, enfriar
+2. **Batir** 75g queso crema hasta cremoso
+3. **Incorporar** chocolate blanco derretido gradualmente
+4. **Añadir** 18g azúcar
+5. **Incorporar** proporción de 1 huevo batido
+6. **Agregar** 25ml nata + 1/8 cdta vainilla
+7. **Tamizar** 1/4 cda harina
+8. **Mezclar** 13g galletas Dinosaurus trituradas
+
+### **PASO 3: Horneado Controlado (30 min)**
 1. **Reducir** temperatura horno a 160°C
-2. **Batir** queso crema hasta cremoso (3 min, velocidad media)
-3. **Añadir** azúcar gradualmente, batir hasta integrar
-4. **Incorporar** huevos uno a uno, batiendo entre cada adición
-5. **Agregar** nata líquida y vainilla
-6. **Tamizar** harina sobre mezcla, integrar suavemente
-7. **Verificar** textura lisa y homogénea
+2. **Verter** cada relleno en su molde correspondiente
+3. **Etiquetar** cada molde claramente
+4. **Distribuir** en bandeja de horno, separados 2cm
+5. **Golpear** bandeja suavemente para eliminar burbujas
+6. **Hornear** 25-30 minutos a 160°C
+7. **Rotar** bandeja a los 15 min para cocción uniforme
+8. **Verificar** cocción con palillo (debe salir casi limpio)
 
-### **PASO 3: División y Personalización (10 min)**
-1. **Dividir** relleno base en 9 porciones iguales (aprox 75g cada una)
-2. **Personalizar** cada porción según tabla de sabores (ver abajo)
-3. **Mezclar** suavemente cada sabor individual
-4. **Verificar** distribución homogénea de ingredientes específicos
+### **PASO 4: Enfriado Escalonado (2 horas)**
+1. **Enfriar** en horno apagado, puerta entreabierta (30 min)
+2. **Retirar** del horno, mantener en moldes
+3. **Enfriar** a temperatura ambiente (30 min)
+4. **Refrigerar** en moldes mínimo 1 hora
+5. **Desmoldar** con cuidado, usar cuchillo fino en bordes
 
-### **PASO 4: Horneado (30 min)**
-1. **Verter** cada relleno personalizado en su molde correspondiente
-2. **Etiquetar** cada molde con su sabor
-3. **Eliminar** burbujas golpeando suavemente
-4. **Hornear** 25-30 minutos a 160°C
-5. **Verificar** cocción con palillo (debe salir casi limpio)
+### **PASO 5: Decoración Específica por Sabor (20 min)**
 
-### **PASO 5: Enfriado y Acabado (2,5 horas)**
-1. **Enfriar** en horno apagado con puerta entreabierta (30 min)
-2. **Retirar** del horno, enfriar a temperatura ambiente (30 min)
-3. **Refrigerar** mínimo 1,5 horas antes de desmoldar
-4. **Desmoldar** cuidadosamente cada uno
-5. **Aplicar** decoración específica según sabor
+#### **🧀 DECORACIÓN CLÁSICA**
+- Nata montada en roseta + 3 frutos rojos + azúcar glass
 
----
+#### **🌰 DECORACIÓN PISTACHO**
+- Nata montada + 6 pistachos enteros + hilo miel + polvo pistacho
 
-## 🎨 **TABLA DE PERSONALIZACIONES POR SABOR**
+#### **🍪 DECORACIÓN LOTUS**
+- Nata montada + 1 galleta Lotus entera + hilo caramelo
 
-### **CLÁSICA (75g de relleno base)**
-- **Sin añadidos especiales**
-- **Decoración**: Nata montada + frutos rojos + azúcar glass
+#### **🦛 DECORACIÓN HAPPY HIPPO**
+- Nata montada + 1 Happy Hippo entero + virutas chocolate
 
-### **PISTACHO (75g de relleno base)**
-- **Añadir**: 19g pasta de pistacho + 4g pistachos molidos + 1 gota colorante verde
-- **Decoración**: Nata montada + pistachos enteros + miel
+#### **⚫ DECORACIÓN OREO**
+- Nata montada + 1 galleta Oreo entera + trocitos Oreo
 
-### **LOTUS (75g de relleno base)**
-- **Cambiar base**: 19g galletas Lotus + 6g galletas María (en lugar de digestive)
-- **Añadir**: 19g galletas Lotus trituradas + 1/3 cda pasta Lotus
-- **Decoración**: Nata montada + galleta Lotus entera + caramelo
+#### **🗽 DECORACIÓN NEW YORK**
+- Nata agria montada + decoración según variación mensual
 
-### **HAPPY HIPPO (75g de relleno base)**
-- **Cambiar base**: 19g galletas barquillo + 6g galletas María + 3g cacao
-- **Añadir**: 1 Happy Hippo triturado + 13g avellanas molidas + 6g chocolate leche derretido
-- **Decoración**: Nata montada + 1 Happy Hippo entero + virutas chocolate
+#### **🌾 DECORACIÓN SIN GLUTEN**
+- Nata montada + frutos rojos frescos + hoja menta
 
-### **OREO (75g de relleno base)**
-- **Cambiar base**: 25g galletas Oreo (sin azúcar extra)
-- **Añadir**: 19g galletas Oreo trituradas + 1/4 cda cacao en polvo
-- **Decoración**: Nata montada + 1 galleta Oreo entera + trocitos Oreo
+#### **🦕 DECORACIÓN CHOCO BLANCO**
+- Ganache chocolate blanco + 1 galleta Dinosaurus + virutas blancas
 
-### **SIN GLUTEN (75g de relleno base)**
-- **Cambiar base**: 25g galletas sin gluten certificadas
-- **Modificar harina**: 1/4 cda harina sin gluten + 1/8 cda maicena
-- **Decoración**: Nata montada + frutos rojos + menta
-
-### **CHOCO BLANCO Y DINOSAURUS (75g de relleno base)**
-- **Cambiar base**: 19g galletas Dinosaurus + 6g galletas María + 3g cacao
-- **Añadir**: 19g chocolate blanco derretido + 13g galletas Dinosaurus trituradas
-- **Decoración**: Ganache chocolate blanco + 1 galleta Dinosaurus + virutas blancas
+#### **🎨 DECORACIÓN SORPRESA**
+- Según ingrediente del día + creatividad del momento
 
 ---
 
@@ -133,6 +240,47 @@
 3. **Flexibilidad**: Cambiar proporción de sabores según demanda
 4. **Control**: Cada sabor individualizado pero proceso común
 5. **Coste**: Optimización de ingredientes y tiempo
+
+---
+
+## ⚠️ **NOTAS IMPORTANTES DE ELABORACIÓN**
+
+### **🏷️ ORGANIZACIÓN Y ETIQUETADO**
+- **Etiquetar** cada molde desde el inicio con nombre del sabor
+- **Usar** rotulador resistente al calor y humedad
+- **Mantener** orden fijo en bandeja de horno
+- **Fotografiar** disposición para referencia futura
+
+### **❌ PREVENCIÓN DE CONTAMINACIÓN CRUZADA**
+- **Sin Gluten**: Preparar PRIMERO con utensilios dedicados
+- **Alergenos**: Pistacho y avellanas al final
+- **Lavar** batidora entre sabores con ingredientes conflictivos
+- **Usar** espátulas diferentes para cada tipo de galleta
+
+### **🎯 CONTROL DE CALIDAD**
+- **Pesar** cada porción de relleno exactamente (75g/100g)
+- **Verificar** temperatura horno con termómetro
+- **Cronometrar** cada paso para consistencia
+- **Documentar** variaciones y resultados
+
+### **🔄 OPTIMIZACIÓN DEL PROCESO**
+1. **Orden eficiente**: Preparar bases más rápidas primero
+2. **Multitarea**: Mientras hornean bases, preparar rellenos
+3. **Limpieza continua**: Lavar entre sabores para evitar mezclas
+4. **Planificación**: Tener todos los ingredientes medidos antes de empezar
+
+### **📊 PUNTOS CRÍTICOS DE CONTROL**
+- **Temperatura base**: 180°C exactos
+- **Tiempo base**: 8-10 min máximo (no quemar)
+- **Temperatura relleno**: 160°C exactos  
+- **Tiempo relleno**: 25-30 min según tamaño
+- **Enfriado**: Respetar tiempos para evitar grietas
+
+### **🎨 PRESENTACIÓN FINAL**
+- **Uniformidad**: Todas las decoraciones proporcionales
+- **Frescura**: Decorar máximo 2 horas antes de servir
+- **Temperatura**: Servir a 8-10°C para mejor textura
+- **Conservación**: Máximo 3 días en refrigeración
 
 ---
 
