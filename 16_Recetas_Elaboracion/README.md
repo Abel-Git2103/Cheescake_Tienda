@@ -8,6 +8,11 @@ Este directorio contiene las recetas detalladas y procedimientos específicos de
 
 ## 🍰 **CATÁLOGO DE RECETAS**
 
+### **🏗️ RECETA BASE OPTIMIZADA**
+- [**Receta Base Común 9x3cm**](receta-base-comun.md) - CHK-BASE
+  - *Proceso único para elaborar 9 cheesecakes individuales de sabores variados*
+  - *Máxima eficiencia operativa y control de costes*
+
 ### **RECETAS PRINCIPALES**
 1. [**Cheesecake Clásica**](receta-clasica.md) - Base tradicional perfecta
 2. [**Cheesecake Pistacho**](receta-pistacho.md) - Premium con pistachos sicilianos
@@ -28,7 +33,14 @@ Este directorio contiene las recetas detalladas y procedimientos específicos de
 - Tiempo total: 4-5 horas (incluye enfriado)
 - **Receta base**: Cantidades estándar
 
-### **🟡 Degustación (5cm - 1-2 porciones)**  
+### **� Surtido Individual (9x3cm - 1 porción cada uno)**
+- Moldes individuales: 9x3cm (9 sabores diferentes)
+- Peso aproximado: 100-120g cada uno
+- Tiempo total: 4 horas
+- **Receta**: Base común + personalizaciones específicas
+- **Eficiencia**: Máxima optimización operativa
+
+### **�🟡 Degustación (5cm - 1-2 porciones)**  
 - Moldes individuales: 5cm diámetro
 - Peso aproximado: 120-150g
 - Tiempo total: 3-4 horas

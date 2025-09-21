@@ -65,19 +65,29 @@ Según nuestro análisis de mercado:
 8. **Choco Blanco y Dinosaurus** - Sabor único y diferenciador
 
 **Formatos de Venta:**
-- **Tarta Grande** (20cm, 8-10 raciones): 22-28€
-- **Porción Individual**: 4,00-5,50€
-- **Degustación** (5cm, 1-2 raciones): 8-12€
+- **Pack Degustación** (4x8,3x5,5cm): 16,00-24,50€
+- **Pequeño Individual** (9,9x5,5cm, 1-2 personas): 5,50-7,90€
+- **Mediano** (16,2x7cm, 4-6 personas): 16,90-24,90€
+- **Grande** (25x7cm, 8-12 personas): 32,90-45,90€
 
-**Precios por Sabor:**
-- **Clásica**: Grande 22€ | Porción 4,00€ | Degustación 8€
-- **Pistacho**: Grande 28€ | Porción 5,50€ | Degustación 12€
-- **Lotus**: Grande 25€ | Porción 4,80€ | Degustación 10€
-- **Happy Hippo**: Grande 26€ | Porción 5,00€ | Degustación 11€
-- **Oreo**: Grande 24€ | Porción 4,50€ | Degustación 9€
-- **New York**: Grande 25€ | Porción 4,80€ | Degustación 10€
-- **Sin Gluten**: Grande 26€ | Porción 5,20€ | Degustación 11€
-- **Choco Blanco**: Grande 27€ | Porción 5,30€ | Degustación 11,50€
+**Precios por Categoría:**
+
+**SABORES ESTÁNDAR** *(Clásica, Oreo, Lotus)*
+- **Pack 4 uds**: 16,00€ | **Pequeño**: 5,50€ | **Mediano**: 16,90€ | **Grande**: 32,90€
+
+**SABORES PREMIUM** *(Pistacho, Happy Hippo, Choco Blanco)*
+- **Pack 4 uds**: 19,50€ | **Pequeño**: 6,50€ | **Mediano**: 19,90€ | **Grande**: 38,90€
+
+**SIN GLUTEN CERTIFICADO**
+- **Pack 4 uds**: 23,00€ | **Pequeño**: 7,50€ | **Mediano**: 22,90€ | **Grande**: 42,90€
+
+**NEW YORK ESPECIALIDAD** *(Variación mensual)*
+- **Pack 4 uds**: 24,50€ | **Pequeño**: 7,90€ | **Mediano**: 24,90€ | **Grande**: 45,90€
+
+**PACKS ESPECIALES**
+- **Pack Degustación**: 4 unidades diferentes según categoría
+- **Pack Pareja**: 1 mediano + 2 pequeños → 28€
+- **Pack Evento**: 2 grandes + 4 pequeños → 88€
 
 #### Bebidas (20% facturación)
 - **Café de especialidad**: 1,80-3,50€
