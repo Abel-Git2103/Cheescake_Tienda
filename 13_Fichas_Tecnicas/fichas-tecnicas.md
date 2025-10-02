@@ -26,11 +26,12 @@ Este directorio contiene las fichas técnicas detalladas de todos nuestros produ
 - [Cheesecake Clásica Sin Gluten](ficha-sin-gluten.md) - Opción inclusiva
 - [Cheesecake Choco Blanco y Dinosaurus](ficha-choco-blanco.md) - Sabor único diferenciador
 
-### **FORMATOS DISPONIBLES**
+### **FORMATOS OPTIMIZADOS** *(3 FORMATOS RENTABLES)*
 Cada sabor se ofrece en tres formatos:
-- **Grande (20cm)**: 8-10 raciones | 22-28€ según sabor
-- **Porción Individual**: Corte perfecto | 4,00-5,50€ según sabor  
-- **Degustación (5cm)**: 1-2 raciones | 8-12€ según sabor
+- **Pequeño Individual (Ø9,9x5,5cm)**: 1-2 raciones | 4,50-6,90€ según sabor
+- **❌ Mediano ELIMINADO**: Inviable por coste molde 4,13€
+- **Grande Familiar (Ø26x7cm)**: 12-16 raciones | 45,90-69,90€ según sabor
+- **Porción Bañada**: Individual | 3,90-6,20€ según sabor
 
 ---
 

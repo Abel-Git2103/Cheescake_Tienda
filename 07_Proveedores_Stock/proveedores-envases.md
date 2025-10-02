@@ -1,42 +1,46 @@
 # Proveedores de envases y moldes horneables (Cheesecake Corner)
 
-## Especificaciones acordadas
+## Especificaciones acordadas ACTUALIZADAS
 - Color/material: kraft marrón, cartón alimentario anti-grasa, pared estriada, antiadherente (tipo siliconado).
 - Apto horno: ≥ 200–220°C.
-- Altura mínima cheesecake: 45 mm (ideal 50 mm si disponible en 16 y 20 cm).
+- Alturas específicas: 55mm (pequeño), 72mm (mediano), 70mm (grande).
 - Horneado en horno (sin baño maría).
 - Cálculo de envío: CP 43002 (Tarragona) como referencia.
+- **Proveedor confirmado**: Pack4Food (precios reales incluidos)
 
-## Tallas y formatos
-- Pequeño: 120 x 45 mm (1–2 raciones)
-- Mediano: 160 x 45–50 mm (4–6 raciones)
-- Grande: 200 x 45–50 mm (8–10 raciones)
-- Caja porción: triangular kraft para 1/8 de tarta de 20 cm
-  - Opción sin ventana (día a día, más económica)
-  - Opción con ventana PET/PLA (eventos/regalo)
+## Tallas y formatos ACTUALIZADOS
+- **Pequeño**: Ø99 x 55 mm (1–2 raciones) - 200ml
+- **Mediano**: Ø129 x 72 mm (3–4 raciones) - 475ml  
+- **Grande**: Ø260 x 70 mm (12–16 raciones) - 3717ml
+- **Caja porción**: Individual para porciones bañadas de tarta grande (26cm)
+  - Opción sin ventana: día a día (más económica)
+  - Opción con ventana PET/PLA: eventos/regalo
+  - Caja doble porción: para pack 2 porciones
 
-## Volúmenes estimados (mes 1–3)
-- Basado en 2–3 tartas/día y 65 clientes/día (Plan de Negocio)
-- Moldes horneables:
-  - Grande 200x45–50: ~75 uds/mes (compra inicial 200 uds)
-  - Mediano 160x45–50: ~24 uds/mes (compra inicial 100 uds)
-  - Pequeño 120x45: ~15 uds/mes (compra inicial 100 uds)
-- Cajas porción 1/8 (kraft):
-  - Estimación base: ~700 uds/mes (65 clientes/día, 60% porción, 60% take-away)
-  - Compra inicial: 700 uds (500 sin ventana + 200 con ventana)
-  - Sensibilidad: 470–940 uds/mes según take-away (40–80%)
+## Volúmenes estimados ACTUALIZADOS (mes 1–3)
+- Basado en modelo familias y grupos - Pack4Food como proveedor
+- **Moldes horneables**:
+  - **Pequeño Ø99x55**: ~400 uds/mes (compra inicial 200 uds) - **2,06€/ud**
+  - **Mediano Ø129x72**: ~240 uds/mes (compra inicial 150 uds) - **4,13€/ud**
+  - **Grande Ø260x70**: ~60 uds/mes (compra inicial 25 uds) - **1,12€/ud**
+- **Cajas porción individuales**:
+  - **Estimación base**: ~800 uds/mes (porciones bañadas de tartas grandes)
+  - **Compra inicial**: 300 uds (250 sin ventana + 50 con ventana)
+  - **Coste**: 0,50€/ud (simple) - 0,54€/ud (doble)
+  - **Sensibilidad**: 600–1.200 uds/mes según demanda porciones
 
 ## Proveedores a comparar
 - Klimer (hostelería profesional)
 - Pack4Food (envases y packaging)
 
-## Palabras clave y marcas recomendadas
-- Marca fiable: Novacart (round baking moulds en kraft).
-- Búsquedas sugeridas:
-  - "Novacart molde redondo kraft 200x50"
-  - "Novacart molde redondo kraft 160x45" / "160x50"
-  - "Novacart molde redondo kraft 120x45"
-  - "caja porción tarta triangular kraft 1/8 20 cm ventana"
+## Palabras clave y marcas recomendadas ACTUALIZADAS
+- **Proveedor confirmado**: Pack4Food (precios reales obtenidos)
+- Búsquedas específicas realizadas:
+  - "Molde redondo kraft Ø99x55mm - 200ml" - **2,06€/ud**
+  - "Molde redondo kraft Ø129x72mm - 475ml" - **4,13€/ud**  
+  - "Molde redondo kraft Ø260x70mm - 3717ml" - **1,12€/ud**
+  - "Caja porción individual kraft" - **0,50€/ud**
+  - "Caja doble porción kraft" - **0,54€/ud**
 
 ## Comparativa de productos (rellenar con enlaces y precios actuales)
 | Tipo | Tamaño | Proveedor | Producto/Marca | Pack | Precio pack | Precio/ud | Altura | Temp. | Enlace | Observaciones |
@@ -61,20 +65,22 @@
   - Kraft sin ventana 1/8 (para 20 cm) para el día a día
   - Kraft con ventana 1/8 para regalos/eventos
 
-## Presupuesto orientativo mensual (según rangos de mercado típicos)
-- Moldes 200 mm (75 uds x ~0,40 €): ~30 €
-- Moldes 160 mm (24 uds x ~0,35 €): ~8,40 €
-- Moldes 120 mm (15 uds x ~0,25 €): ~3,75 €
-- Cajas porción (700 uds x ~0,14 €): ~98 €
-- Total estimado (sin envío/IVA): ~140 € / mes
+## Presupuesto mensual REAL Pack4Food
+- **Moldes pequeños Ø99x55**: 400 uds x 2,06€ = **824€**
+- **Moldes medianos Ø129x72**: 240 uds x 4,13€ = **991€**
+- **Moldes grandes Ø260x70**: 60 uds x 1,12€ = **67€**
+- **Cajas porciones**: 800 uds x 0,50€ = **400€**
+- **TOTAL mensual**: **2.282€** (IVA incluido)
+- **Impacto**: Coste packaging representa 22-28% del precio venta
 
-## Checklist pedido inicial
-- Moldes 200x50: 200 uds (2 x pack 100)
-- Moldes 160x45–50: 100 uds (1 x pack 100)
-- Moldes 120x45: 100 uds (1 x pack 100)
-- Cajas porción kraft sin ventana: 500 uds
-- Cajas porción kraft con ventana: 200 uds
-- Nota: revisar descuentos por volumen, envío y plazos de entrega.
+## Checklist pedido inicial ACTUALIZADO
+- **Moldes Ø99x55mm**: 200 uds (Pack4Food) - **412€**
+- **Moldes Ø129x72mm**: 150 uds (Pack4Food) - **620€**
+- **Moldes Ø260x70mm**: 25 uds (Pack4Food) - **28€**
+- **Cajas porción simples**: 250 uds - **125€**
+- **Cajas porción con ventana**: 50 uds - **27€**
+- **TOTAL PEDIDO INICIAL**: **1.212€** (IVA incluido)
+- **Nota**: Stock para 2-3 semanas iniciales
 
 ## Notas operativas
 - Rellenar al 80–85% de la altura del molde; reposo en horno apagado 30–45 min para evitar grietas.

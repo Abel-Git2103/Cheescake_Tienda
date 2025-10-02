@@ -4,12 +4,11 @@
   - Creciente interés por productos artesanales, ingredientes locales y recetas exclusivas.
   - Aumento de la demanda de tartas de queso con sabores innovadores específicos: Pistacho, Lotus, Happy Hippo, Oreo, Choco Blanco y Dinosaurus.
   - Tendencia hacia opciones saludables: tartas de queso Sin Gluten y productos diferenciados.
-  - Demanda de especialidades cambiantes como nuestro concepto "New York del mes".
-  - Formatos múltiples (Grande 20cm, Porción, Degustación 5cm) para diferentes ocasiones de consumo.
-  - Experiencias gastronómicas: eventos temáticos, catas de tartas y maridajes con café de especialidad. de Consumo
+  - Demanda de especialidades cambiantes (1 por mes)
+  - Formatos múltiples (Grande 26cm, Mediano 13cm, Pequeño 10cm, Porción) para diferentes ocasiones de consumo.
 
 - **Productos más demandados en Tarragona ciudad:**
-  - Tartas de queso especializadas: Clásica, Pistacho, Lotus, Happy Hippo, Oreo, New York, Sin Gluten, Choco Blanco y Dinosaurus
+  - Tartas de queso especializadas: Clásica, Pistacho, Lotus, Happy Hippo, Oreo, Sin Gluten, Choco Blanco y Dinosaurus
   - Café (especialidad, espresso, capuchino)
   - Refrescos, aguas y zumos naturales
   - Opciones sin gluten y veganas están en alza por tendencia saludable
@@ -22,7 +21,7 @@
   - Estudio de mercado de la Cámara de Comercio de Tarragona (2024): la pastelería artesanal y el café de especialidad tienen alta demanda entre jóvenes y familias.
 
 - **Estadísticas aproximadas:**
-  - 25% de los clientes buscan sabores clásicos (Clásica, New York)
+  - 25% de los clientes buscan sabores clásicos (Clásica)
   - 35% optan por sabores innovadores (Pistacho, Lotus, Happy Hippo, Oreo, Choco Blanco)
   - 30% café de especialidad y bebidas calientes
   - 10% refrescos, aguas y zumos naturales
@@ -56,8 +55,8 @@
   - Competidores ofrecen menús para llevar y opciones veganas/gluten-free, aunque la oferta sigue siendo limitada.
 
 - **Diferenciación respecto a tu propuesta:**
-  - Tu negocio puede destacarse por ofrecer 8 sabores únicos de tartas de queso: Clásica, Pistacho, Lotus, Happy Hippo, Oreo, New York (especialidad del mes), Sin Gluten, y Choco Blanco y Dinosaurus.
-  - 3 formatos diferenciados: Grande (20cm), Porción individual, y Degustación (5cm).
+  - Tu negocio puede destacarse por ofrecer 8 sabores únicos de tartas de queso: Clásica, Pistacho, Lotus, Happy Hippo, Oreo, especialidad del mes, Sin Gluten, y Choco Blanco y Dinosaurus.
+  - 3 formatos diferenciados: Grande 26cm, Mediano 13cm, Pequeño 10cm, Porción.
   - Potenciar la experiencia de cafetería: café de especialidad, ambiente acogedor, servicio personalizado.
   - Mayor variedad que cualquier competidor local con especialización exclusiva en tartas de queso.
   - Integración de tecnología para pedidos online, reservas y fidelización de clientes.

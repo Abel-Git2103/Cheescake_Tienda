@@ -1,132 +1,145 @@
 # 💰 Estrategia de Precios por Tamaños - Cheesecakería Tarragona
 
 ## 📋 **INFORMACIÓN GENERAL**
-- **Fecha**: Septiembre 2025
-- **Mercado objetivo**: Tarragona y comarca
+- **Fecha**: Octubre 2025
+- **Mercado objetivo**: Tarragona y comarca - Familias y grupos
 - **Competencia**: Pastelerías tradicionales, cafeterías premium
 - **Posicionamiento**: Especialista exclusivo en cheesecakes artesanales
+- **Proveedor packaging**: Pack4Food (precios incluidos)
 
 ---
 
-## 📐 **ESPECIFICACIONES DE MOLDES**
+## 📐 **ESPECIFICACIONES OPTIMIZADAS - 3 FORMATOS RENTABLES**
 
-### **� PACK DEGUSTACIÓN - 8,3 x 5,5 cm**
-- **Capacidad**: Exclusivo para pack de 4 unidades
-- **Peso neto**: 100-120g cada uno
-- **Público objetivo**: Degustación múltiple, regalo, eventos
-
-### **🟢 PEQUEÑO INDIVIDUAL - 9,9 x 5,5 cm**
+### **🟢 PEQUEÑO INDIVIDUAL - Ø9,9 x H5,5 cm (200ml)**
 - **Capacidad**: 1-2 personas (individual)
 - **Peso neto**: 140-160g
-- **Público objetivo**: Capricho personal, merienda, gift individual
+- **Público objetivo**: Capricho personal, merienda, impulso
+- **Estrategia**: Pack de 4 unidades para compensar coste molde
+- **Coste molde**: 2,06€/unidad (Pack4Food)
+- **Participación ventas**: 35%
 
-### **🟡 MEDIANO - 16,2 x 7 cm**
-- **Capacidad**: 4-6 personas (familiar pequeño)
-- **Peso neto**: 480-550g
-- **Público objetivo**: Parejas, familias pequeñas, cenas íntimas
+### **🔴 GRANDE - Ø26 x H7 cm (3717ml)**
+- **Capacidad**: 12-16 personas
+- **Peso neto**: 2.800-3.200g
+- **Uso dual**: Base porciones bañadas + pedidos familiares
+- **Coste molde**: 1,12€/unidad (¡solo 2,4% precio venta!)
+- **Participación ventas**: 10%
 
-### **🔴 GRANDE - 25 x 7 cm**
-- **Capacidad**: 8-12 personas (eventos, celebraciones)
-- **Peso neto**: 1.100-1.300g
-- **Público objetivo**: Cumpleaños, eventos, reuniones familiares
+### **🍰 PORCIÓN BAÑADA - Individual (PRODUCTO ESTRELLA)**
+- **Origen**: Corte de tarta grande (26cm) en 14 porciones
+- **Peso**: 200-230g por porción
+- **Presentación**: Baño específico por sabor del día
+- **Rotación**: 8 sabores diferentes con especialidad mensual
+- **Coste envase**: 0,50€ (simple) / 0,54€ (doble)
+- **Participación ventas**: **55%** (diferenciador único)
+
+### **❌ ELIMINADO: MEDIANO Ø12,9x7,2cm**
+- **Razón**: Coste molde 4,13€ = 32% precio venta (NO RENTABLE)
+- **Ahorro mensual**: 991€ (240 moldes x 4,13€)
+- **Impacto**: Transformación de viable a altamente rentable
 
 ---
 
 ## 💶 **ESTRUCTURA DE PRECIOS Y BENEFICIOS**
 
-### **🟠 PACK DEGUSTACIÓN (4x8,3x5,5cm)**
+### **� PEQUEÑO INDIVIDUAL - Ø9,9x5,5cm (200ml)**
 
 #### **SABORES ESTÁNDAR** *(Clásica, Oreo, Lotus)*
-- **Precio venta**: 16,00€
-- **Coste producción**: 6,40€ (ingredientes + envase + mano de obra)
-- **💰 BENEFICIO NETO**: **9,60€** (60% margen)
+- **Precio venta**: 4,50€ | **Pack 4 uds**: 16,00€ (4,00€/ud - ahorro 2€)
+- **Coste producción**: 2,96€ (ingred: 0,75€ + molde: 2,06€ + m.obra: 0,15€)
+- **💰 BENEFICIO NETO**: **1,54€** (34% margen) | **Pack**: **5,16€** (32% margen)
 
 #### **SABORES PREMIUM** *(Pistacho, Happy Hippo, Choco Blanco)*
-- **Precio venta**: 19,50€
-- **Coste producción**: 8,20€ (ingredientes premium + envase + mano de obra)
-- **💰 BENEFICIO NETO**: **11,30€** (58% margen)
+- **Precio venta**: 5,50€ | **Pack 4 uds**: 20,00€ (5,00€/ud - ahorro 2€)
+- **Coste producción**: 3,21€ (ingred: 1,00€ + molde: 2,06€ + m.obra: 0,15€)
+- **💰 BENEFICIO NETO**: **2,29€** (42% margen) | **Pack**: **7,16€** (36% margen)
 
 #### **SIN GLUTEN CERTIFICADO**
-- **Precio venta**: 23,00€
-- **Coste producción**: 10,35€ (ingredientes especiales + certificación + envase)
-- **💰 BENEFICIO NETO**: **12,65€** (55% margen)
+- **Precio venta**: 6,50€ | **Pack 4 uds**: 24,00€ (6,00€/ud - ahorro 2€)
+- **Coste producción**: 3,56€ (ingred: 1,35€ + molde: 2,06€ + m.obra: 0,15€)
+- **💰 BENEFICIO NETO**: **2,94€** (45% margen) | **Pack**: **9,76€** (41% margen)
 
 #### **NEW YORK ESPECIALIDAD**
-- **Precio venta**: 24,50€
-- **Coste producción**: 10,30€ (ingredientes premium + técnica especial)
-- **💰 BENEFICIO NETO**: **14,20€** (58% margen)
+- **Precio venta**: 6,90€ | **Pack 4 uds**: 25,60€ (6,40€/ud - ahorro 2€)
+- **Coste producción**: 3,61€ (ingred: 1,40€ + molde: 2,06€ + m.obra: 0,15€)
+- **💰 BENEFICIO NETO**: **3,29€** (48% margen) | **Pack**: **10,16€** (40% margen)
 
 ---
 
-### **🟢 PEQUEÑO INDIVIDUAL (9,9x5,5cm)**
+### **🟡 MEDIANO - Ø12,9x7,2cm (475ml)**
 
 #### **SABORES ESTÁNDAR** *(Clásica, Oreo, Lotus)*
-- **Precio venta**: 5,50€
-- **Coste producción**: 2,04€ (ingredientes + envase + mano de obra)
-- **💰 BENEFICIO NETO**: **3,46€** (63% margen)
+- **Precio venta**: 12,90€
+- **Coste producción**: 6,03€ (ingred: 1,75€ + molde: 4,13€ + m.obra: 0,15€)
+- **💰 BENEFICIO NETO**: **6,87€** (53% margen)
 
 #### **SABORES PREMIUM** *(Pistacho, Happy Hippo, Choco Blanco)*
-- **Precio venta**: 6,50€
-- **Coste producción**: 2,60€ (ingredientes premium + envase + mano de obra)
-- **💰 BENEFICIO NETO**: **3,90€** (60% margen)
+- **Precio venta**: 15,90€
+- **Coste producción**: 6,53€ (ingred: 2,25€ + molde: 4,13€ + m.obra: 0,15€)
+- **💰 BENEFICIO NETO**: **9,37€** (59% margen)
 
 #### **SIN GLUTEN CERTIFICADO**
-- **Precio venta**: 7,50€
-- **Coste producción**: 3,30€ (ingredientes especiales + certificación + envase)
-- **💰 BENEFICIO NETO**: **4,20€** (56% margen)
+- **Precio venta**: 18,90€
+- **Coste producción**: 7,43€ (ingred: 3,15€ + molde: 4,13€ + m.obra: 0,15€)
+- **💰 BENEFICIO NETO**: **11,47€** (61% margen)
 
 #### **NEW YORK ESPECIALIDAD**
-- **Precio venta**: 7,90€
-- **Coste producción**: 3,32€ (ingredientes premium + técnica especial)
-- **💰 BENEFICIO NETO**: **4,58€** (58% margen)
-
----
-
-### **🟡 MEDIANO (16,2x7cm)**
-
-#### **SABORES ESTÁNDAR** *(Clásica, Oreo, Lotus)*
-- **Precio venta**: 16,90€
-- **Coste producción**: 5,41€ (ingredientes + envase + mano de obra)
-- **💰 BENEFICIO NETO**: **11,49€** (68% margen)
-
-#### **SABORES PREMIUM** *(Pistacho, Happy Hippo, Choco Blanco)*
 - **Precio venta**: 19,90€
-- **Coste producción**: 6,97€ (ingredientes premium + envase + mano de obra)
-- **💰 BENEFICIO NETO**: **12,93€** (65% margen)
-
-#### **SIN GLUTEN CERTIFICADO**
-- **Precio venta**: 22,90€
-- **Coste producción**: 8,70€ (ingredientes especiales + certificación + envase)
-- **💰 BENEFICIO NETO**: **14,20€** (62% margen)
-
-#### **NEW YORK ESPECIALIDAD**
-- **Precio venta**: 24,90€
-- **Coste producción**: 9,21€ (ingredientes premium + técnica especial)
-- **💰 BENEFICIO NETO**: **15,69€** (63% margen)
+- **Coste producción**: 7,58€ (ingred: 3,30€ + molde: 4,13€ + m.obra: 0,15€)
+- **💰 BENEFICIO NETO**: **12,32€** (62% margen)
 
 ---
 
-### **🔴 GRANDE (25x7cm)**
+### **🔴 GRANDE - Ø26x7cm (3717ml) - PEDIDOS ESPECIALES**
 
 #### **SABORES ESTÁNDAR** *(Clásica, Oreo, Lotus)*
-- **Precio venta**: 32,90€
-- **Coste producción**: 9,21€ (ingredientes + envase + mano de obra)
-- **💰 BENEFICIO NETO**: **23,69€** (72% margen)
+- **Precio venta**: 45,90€ (pedido familiar especial)
+- **Coste producción**: 14,52€ (ingred: 13,25€ + molde: 1,12€ + m.obra: 0,15€)
+- **💰 BENEFICIO NETO**: **31,38€** (68% margen)
 
 #### **SABORES PREMIUM** *(Pistacho, Happy Hippo, Choco Blanco)*
-- **Precio venta**: 38,90€
-- **Coste producción**: 12,06€ (ingredientes premium + envase + mano de obra)
-- **💰 BENEFICIO NETO**: **26,84€** (69% margen)
+- **Precio venta**: 55,90€ (pedido familiar especial)
+- **Coste producción**: 18,42€ (ingred: 17,15€ + molde: 1,12€ + m.obra: 0,15€)
+- **💰 BENEFICIO NETO**: **37,48€** (67% margen)
 
 #### **SIN GLUTEN CERTIFICADO**
-- **Precio venta**: 42,90€
-- **Coste producción**: 14,59€ (ingredientes especiales + certificación + envase)
-- **💰 BENEFICIO NETO**: **28,31€** (66% margen)
+- **Precio venta**: 65,90€ (pedido familiar especial)
+- **Coste producción**: 25,02€ (ingred: 23,75€ + molde: 1,12€ + m.obra: 0,15€)
+- **💰 BENEFICIO NETO**: **40,88€** (62% margen)
 
 #### **NEW YORK ESPECIALIDAD**
-- **Precio venta**: 45,90€
-- **Coste producción**: 15,15€ (ingredientes premium + técnica especial)
-- **💰 BENEFICIO NETO**: **30,75€** (67% margen)
+- **Precio venta**: 69,90€ (pedido familiar especial)
+- **Coste producción**: 26,12€ (ingred: 24,85€ + molde: 1,12€ + m.obra: 0,15€)
+- **💰 BENEFICIO NETO**: **43,78€** (63% margen)
+
+---
+
+### **🍰 PORCIONES BAÑADAS - Base Grande (26cm)**
+
+#### **SABORES ESTÁNDAR** *(Clásica, Oreo, Lotus)*
+- **Precio venta**: 3,90€/porción
+- **Coste producción**: 1,41€ (ingred: 0,83€ + envase: 0,50€ + m.obra: 0,08€)
+- **💰 BENEFICIO NETO**: **2,49€** (64% margen)
+- **Rendimiento**: 14 porciones/tarta grande = **34,86€** beneficio total
+
+#### **SABORES PREMIUM** *(Pistacho, Happy Hippo, Choco Blanco)*
+- **Precio venta**: 4,90€/porción
+- **Coste producción**: 1,73€ (ingred: 1,15€ + envase: 0,50€ + m.obra: 0,08€)
+- **💰 BENEFICIO NETO**: **3,17€** (65% margen)
+- **Rendimiento**: 14 porciones/tarta grande = **44,38€** beneficio total
+
+#### **SIN GLUTEN CERTIFICADO**
+- **Precio venta**: 5,90€/porción
+- **Coste producción**: 2,28€ (ingred: 1,70€ + envase: 0,50€ + m.obra: 0,08€)
+- **💰 BENEFICIO NETO**: **3,62€** (61% margen)
+- **Rendimiento**: 14 porciones/tarta grande = **50,68€** beneficio total
+
+#### **NEW YORK ESPECIALIDAD**
+- **Precio venta**: 6,20€/porción
+- **Coste producción**: 2,36€ (ingred: 1,78€ + envase: 0,50€ + m.obra: 0,08€)
+- **💰 BENEFICIO NETO**: **3,84€** (62% margen)
+- **Rendimiento**: 14 porciones/tarta grande = **53,76€** beneficio total
 
 ---
 

@@ -3,7 +3,7 @@
 ## Tipo de tienda
 Para llevar, para recoger y con mesas para sentarse.
 
-Se ofrecerán tres tipos de formato: **tarta grande (20cm)**, **degustación individual (5cm)** y **porciones de tarta**.
+Se ofrecerán cuatro tipos de formato: **pequeño individual (Ø9,9x5,5cm)**, **mediano familiar (Ø12,9x7,2cm)**, **grande familiar (Ø26x7cm)** y **porciones bañadas individuales**.
 
 **Catálogo de 8 sabores únicos:**
 1. **Clásica** - Base tradicional de tarta de queso
@@ -11,7 +11,7 @@ Se ofrecerán tres tipos de formato: **tarta grande (20cm)**, **degustación ind
 3. **Lotus** - Innovación con galletas caramelizadas
 4. **Happy Hippo** - Atractivo para público joven
 5. **Oreo** - Popular entre niños y jóvenes
-6. **New York** - Especialidad del mes (sabor cambiante)
+6. Especialidad del mes (sabor cambiante)
 7. **Clásica Sin Gluten** - Opción inclusiva
 8. **Choco Blanco y Dinosaurus** - Sabor único y diferenciador
 

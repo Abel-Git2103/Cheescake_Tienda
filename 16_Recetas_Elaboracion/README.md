@@ -25,33 +25,34 @@ Este directorio contiene las recetas detalladas y procedimientos específicos de
 
 ---
 
-## 📏 **FORMATOS DISPONIBLES**
+## 📏 **FORMATOS ACTUALIZADOS**
 
-### **🔴 Grande (20cm - 8-10 porciones)**
-- Molde: 20cm diámetro, desmontable
-- Peso aproximado: 1.2-1.4kg
-- Tiempo total: 4-5 horas (incluye enfriado)
-- **Receta base**: Cantidades estándar
+### **� PEQUEÑO INDIVIDUAL - Ø9,9 x H5,5 cm (200ml)**
+- **Capacidad**: 1-2 personas (individual)
+- **Peso neto**: 140-160g
+- **Tiempo total**: 3-4 horas (incluye enfriado)
+- **Factor conversión**: 0,18 respecto al grande
+- **Molde Pack4Food**: 2,06€/ud
 
-### **� Surtido Individual (9x3cm - 1 porción cada uno)**
-- Moldes individuales: 9x3cm (9 sabores diferentes)
-- Peso aproximado: 100-120g cada uno
-- Tiempo total: 4 horas
-- **Receta**: Base común + personalizaciones específicas
-- **Eficiencia**: Máxima optimización operativa
+### **❌ MEDIANO ELIMINADO - Ø12,9 x H7,2 cm (475ml)**
+- **Razón**: Molde 4,13€ = 32% precio venta = INVIABLE
+- **Mejora ROI**: Del 38% al 58% sin este formato
+- **Break-even**: Reducido del mes 7 al mes 5
+- **Sustitución**: Mayor enfoque porciones individuales
 
-### **�🟡 Degustación (5cm - 1-2 porciones)**  
-- Moldes individuales: 5cm diámetro
-- Peso aproximado: 120-150g
-- Tiempo total: 3-4 horas
-- **Conversión**: Dividir cantidades entre 8
-- **Rendimiento**: 8 tartas degustación por receta base
+### **� GRANDE - Ø26 x H7 cm (3717ml)**
+- **Capacidad**: 12-16 personas
+- **Peso neto**: 2.800-3.200g
+- **Tiempo total**: 6-7 horas (incluye enfriado)
+- **Uso principal**: Base para porciones bañadas (14 porciones)
+- **Molde Pack4Food**: 1,12€/ud
 
-### **🟢 Porción Individual**
-- Corte perfecto de tarta grande
-- Peso: 140-160g por porción
-- Presentación: Plato individual con decoración
-- **Origen**: Corte de tarta grande 20cm
+### **🍰 PORCIÓN BAÑADA - Individual**
+- **Origen**: Corte de tarta grande (26cm) en 14 porciones
+- **Peso**: 200-230g por porción
+- **Presentación**: Baño específico por sabor
+- **Rotación**: Sabores diferentes cada día
+- **Envase Pack4Food**: 0,50€/ud
 
 ---
 

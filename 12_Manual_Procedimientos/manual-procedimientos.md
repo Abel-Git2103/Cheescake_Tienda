@@ -39,10 +39,11 @@ Este manual establece los procedimientos estándar para garantizar la calidad, c
 
 ### **4. PROCEDIMIENTOS DE CONSERVACIÓN Y SERVICIO**
 - [Refrigeración y conservación diferenciada](conservacion.md)
-- [Corte y porciones - 3 formatos](conservacion.md)
-  - Grande (20cm) - 8-10 porciones
-  - Porción individual perfecta
-  - Degustación (5cm) - 1-2 porciones
+- [Corte y porciones - 3 FORMATOS OPTIMIZADOS](conservacion.md)
+  - Pequeño individual (Ø9,9x5,5cm) - 1-2 porciones
+  - ❌ Mediano ELIMINADO - Inviable económicamente
+  - Grande familiar (Ø26x7cm) - 12-16 porciones
+  - Porciones bañadas individuales - Base tarta grande (ESTRELLA)
 - [Presentación específica por sabor](conservacion.md)
 - [Gestión de stock por sabor](conservacion.md)
 - [Rotación FIFO adaptada a 8 sabores](conservacion.md)
